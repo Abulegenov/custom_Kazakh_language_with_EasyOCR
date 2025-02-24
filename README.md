@@ -24,7 +24,7 @@ This repository contains an attempt to train [EasyOCR](https://github.com/Jaided
    - Neither model performed well (as expected), but the **fine-tuned Russian model** showed slightly better results.
 
 4. **Future Improvements**:
-  - Increase dataset size and diversity.
+  - Increase dataset size and diversity. Include proper methods for processings.
   - Optimize training settings (augmentations, hyperparameters, better choice of models for detection and recognition).
   
 Step by step implementation is in .ipynb file
