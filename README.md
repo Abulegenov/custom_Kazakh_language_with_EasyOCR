@@ -1,0 +1,1 @@
+# custom_Kazakh_language_with_EasyOCR
